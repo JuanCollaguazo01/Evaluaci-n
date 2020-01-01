@@ -1,2 +1,5 @@
 # Evaluacion
-trabajo EPN
+Trabajo EPN
+    Juan Collaguazo 
+    Bryan Pumisacho 
+    Jose Borja
